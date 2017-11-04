@@ -1,4 +1,5 @@
 ## cachematrix.R
+## psciamma@blueyonder.co.uk
 ## pair of functions that cache the inverse of a matrix
 ## functions do
 
